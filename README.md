@@ -8,3 +8,5 @@ with SMOTE+TomekLink, stands out as the most effective model. These findings emp
 tance of addressing class imbalances and the potential of ensemble learning techniques for wine quality
 assessment. Further investigations could explore nuanced aspects of feature importance and classification
 accuracy for continued refinement of model performance.
+
+![Results]("https://github.com/JASONZ777/wine_quality_evaluation/assets/94668646/ffddd5a3-871b-4bce-aa99-6df775e0623b")
