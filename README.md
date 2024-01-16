@@ -9,4 +9,6 @@ tance of addressing class imbalances and the potential of ensemble learning tech
 assessment. Further investigations could explore nuanced aspects of feature importance and classification
 accuracy for continued refinement of model performance.
 
-![Results](https://github.com/JASONZ777/wine_quality_evaluation/assets/94668646/ffddd5a3-871b-4bce-aa99-6df775e0623b)
+Some Results:
+![Results](https://github.com/JASONZ777/wine_quality_evaluation/assets/94668646/34334a80-5852-44e8-9f6e-df92387731e7)
+![improvemnets](https://github.com/JASONZ777/wine_quality_evaluation/assets/94668646/ffddd5a3-871b-4bce-aa99-6df775e0623b)
